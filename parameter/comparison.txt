@@ -1,0 +1,9 @@
+ant_num : 100
+iteration : 300
+beta : 1.0
+q0 : 0.85
+alpha(global) : 0.15
+rho(local) : 0.15
+time : 9999999999
+improve : 300
+experiment : comparison
